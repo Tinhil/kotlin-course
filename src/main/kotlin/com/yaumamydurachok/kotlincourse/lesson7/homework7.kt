@@ -83,6 +83,6 @@ fun main() {
             print( i * ii)
             print(" ")
         }
-        println(" ")
+        println()
     }
 }
