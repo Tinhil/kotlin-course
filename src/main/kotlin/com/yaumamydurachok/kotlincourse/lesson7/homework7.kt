@@ -45,6 +45,24 @@ fun main() {
 //    while (minus-- >5) {
 //        println(minus)
 //    }
+//
+//    var dw = 5
+//    do {
+//        print(dw)
+//    } while (dw-- > 1)
+//
+//    var dw = 5
+//    do {
+//        print ("ыть ")
+//    } while (++dw < 10)
+//
+//    for (i in 1..10) {
+//        println(i)
+//        if (i == 6) break
+//    }
 
-
+    var inf = 1
+    do {
+        print (inf )
+    } while (++inf > 1)
 }
